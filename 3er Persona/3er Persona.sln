@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3er Persona", "3er Persona.csproj", "{62C718C2-A9E2-13D3-0B47-3C92165BA5C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3er Persona.Plugins", "3er Persona.Plugins.csproj", "{00AC6855-CD75-39A8-F529-9E2B645D3923}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3er Persona.Editor.Plugins", "3er Persona.Editor.Plugins.csproj", "{89C8B5F7-FDEF-3763-7F75-91FA3FCFC24D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3er Persona.Editor", "3er Persona.Editor.csproj", "{57F15E1C-8C3B-F2EB-47F9-0A33A9C67A43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62C718C2-A9E2-13D3-0B47-3C92165BA5C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62C718C2-A9E2-13D3-0B47-3C92165BA5C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62C718C2-A9E2-13D3-0B47-3C92165BA5C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62C718C2-A9E2-13D3-0B47-3C92165BA5C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00AC6855-CD75-39A8-F529-9E2B645D3923}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00AC6855-CD75-39A8-F529-9E2B645D3923}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00AC6855-CD75-39A8-F529-9E2B645D3923}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00AC6855-CD75-39A8-F529-9E2B645D3923}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89C8B5F7-FDEF-3763-7F75-91FA3FCFC24D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89C8B5F7-FDEF-3763-7F75-91FA3FCFC24D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89C8B5F7-FDEF-3763-7F75-91FA3FCFC24D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89C8B5F7-FDEF-3763-7F75-91FA3FCFC24D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57F15E1C-8C3B-F2EB-47F9-0A33A9C67A43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57F15E1C-8C3B-F2EB-47F9-0A33A9C67A43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57F15E1C-8C3B-F2EB-47F9-0A33A9C67A43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57F15E1C-8C3B-F2EB-47F9-0A33A9C67A43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
